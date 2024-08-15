@@ -1,0 +1,74 @@
+Part 1: Introduction to Software Engineering
+
+What is software engineering?
+
+Software engineering is the application of engineering principles and techniques to design, develop, test, and maintain software systems. It involves a systematic approach to software development, ensuring that software is reliable, efficient, and meets user requirements.
+
+Importance of software engineering
+
+Software engineering is crucial in the technology industry as it enables the creation of high-quality software systems that meet user needs and are delivered on time and within budget.
+
+Key milestones in software engineering evolution
+
+1. 1960s: Software Crisis - The term "software engineering" was coined to address the challenges of software development, such as cost overruns, delays, and reliability issues.
+2. 1970s: Structured Programming - The introduction of structured programming techniques, such as modular programming and top-down design, improved software quality and maintainability.
+3. 1980s: Object-Oriented Programming (OOP) - OOP revolutionised software development with its focus on modularity, reusability, and abstraction.
+
+Phases of Software Development Life Cycle (SDLC)
+
+1. Requirements Gathering
+2. Design
+3. Implementation
+4. Testing
+5. Deployment
+6. Maintenance
+
+Waterfall vs. Agile Methodologies
+
+- Waterfall: Linear, sequential approach, suitable for projects with well-defined requirements and few changes expected.
+- Agile: Iterative, flexible approach, suitable for projects with changing requirements or uncertain outcomes.
+
+Roles and Responsibilities
+
+- Software Developer: Designs, develops, and tests software components.
+- Quality Assurance Engineer: Ensures software quality through testing and validation.
+- Project Manager: Oversees project planning, execution, and delivery.
+
+Importance of IDEs and VCS
+
+- Integrated Development Environments (IDEs): Enhance productivity with features like code completion, debugging, and project management. (Example: Eclipse, Visual Studio)
+- Version Control Systems (VCS): Manage code changes, collaborations, and version history. (Example: Git, SVN)
+
+Common challenges faced by software engineers
+
+- Time and budget constraints
+- Complexity and scalability
+- Communication and teamwork
+
+Strategies to overcome challenges
+
+- Agile methodologies
+- Continuous testing and integration
+- Effective communication and collaboration
+
+Types of testing
+
+- Unit testing: Verifies individual software components.
+- Integration testing: Tests interactions between components.
+- System testing: Evaluates the entire software system.
+- Acceptance testing: Ensures software meets user requirements.
+
+Part 2: Introduction to AI and Prompt Engineering
+
+What is prompt engineering?
+
+Prompt engineering is the process of designing and optimising text prompts to effectively interact with AI models, such as language models or chatbots.
+
+Example of prompt improvement
+
+- Vague prompt: "Write a story."
+- Improved prompt: "Write a science fiction story set in a futuristic city with a strong female protagonist and a plot twist."
+
+Why is the improved prompt more effective?
+
+The improved prompt provides clear guidance on genre, setting, characters, and plot, enabling the AI model to generate a more relevant and engaging story.
